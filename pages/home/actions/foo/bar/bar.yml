@@ -1,0 +1,18 @@
+id: '17387505894090.7840970183648097'
+kind: store_item
+name: bar
+nameConfigured: true
+steps: []
+mode: manual
+modeConfigured: false
+parentPageId: '1'
+parentId: '17387505822450.8304012836402475'
+storeItem:
+  value: bar
+  valueType: string
+  initialValue: bar
+  version: 1
+config:
+  preserveStateOnPageChange: false
+selected: true
+configured: true
